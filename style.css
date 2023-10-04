@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@200;400&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+  font-family: 'Barlow Condensed', sans-serif;
+  background: #0a033a;
+  color: white;
+  
+
+ 
+  font-size: 10rem;
+  
+}
+.box{
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#clock{
+  border: 2px dashed whitesmoke;
+  padding: 100px;
+  border-radius: 2rem;
+}
+
+
